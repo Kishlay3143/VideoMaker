@@ -1,0 +1,10 @@
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="main_backgroud">#333333</color>
+    <color name="materialcolorpicker__red">#f44336</color>
+    <color name="materialcolorpicker__green">#4caf50</color>
+    <color name="materialcolorpicker__blue">#2196f3</color>
+    <color name="materialcolorpicker__grey">#b3b3b3</color>
+    <color name="hint_foreground_material_light">#00000000</color>
+    <color name="black">#FF000000</color>
+</resources>

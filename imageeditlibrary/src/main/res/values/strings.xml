@@ -1,0 +1,13 @@
+<resources>
+    <string name="materialcolorpicker__btnSelectColor">Select</string>
+    <string name="saving_image">Saving</string>
+    <string name="input_hint">Enter Text</string>
+    <string name="no_choose">please choose a image for edit</string>
+    <string name="auto_newline">AutoNewline</string>
+    <string name="save_error">Save error!</string>
+    <string name="handing">loading...</string>
+    <string name="more">more</string>
+    <string name="exit_without_save">The edited image is not saved. Do you want to exit? </string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+</resources>

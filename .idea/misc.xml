@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-hdpi/app_bg.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-hdpi/bg_btn_dur.xml" value="0.147" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-hdpi/blue_backg.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-hdpi/no_internet_bg.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-hdpi/rate_white_background.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-hdpi/red_bg.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-v24/app_backg.xml" value="0.1095" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-v24/permi_back.xml" value="0.1605" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-v24/premission_2.xml" value="0.1605" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-v24/rad_button_bg.xml" value="0.1095" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-v24/rate_white_background.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-v24/white_ground.xml" value="0.1095" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/annimations2.xml" value="0.146" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/app_bg.xml" value="0.147" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/bg_btn.xml" value="0.147" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/bg_btn_dur.xml" value="0.147" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/bg_dialog.xml" value="0.181" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/data_drawable.xml" value="0.146" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/drawable_back.xml" value="0.146" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/ic_search.xml" value="0.147" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/ripple.xml" value="0.146" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/select_image_bg.xml" value="0.147" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable-xhdpi/sticker_border_gray.xml" value="0.147" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable/bg_btn.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable/bg_btn_dur.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable/btn_bg.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable/btn_light.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable/cancel.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable/click_anim.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable/ic_search.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/drawable/white_bg.xml" value="0.169" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_creation.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_default_song.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_gallery.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_home.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_offline_song.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_permission.xml" value="0.264" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_share.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_swap_image.xml" value="0.264" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_video_maker.xml" value="0.264" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activity_video_processing.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activityy_creationn.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activityy_defaultt_songg.xml" value="0.22962962962962963" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activityy_galleryy.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activityy_homee.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/activityy_permissionn.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/alert_dialog.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/alert_dialogs.xml" value="0.1" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/auth_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/creation_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/custom_dialog_text.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/default_song_dialog.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/default_song_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/dialog_delete_video.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/dialog_exit.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/dialog_inter.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/dialog_loader.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/dialog_no_internet.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/dialog_rate.xml" value="0.264" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/dialog_request_permission.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/dialog_required_permission.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/dialog_version.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/dialogs_rates.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/duration_list_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/edit_image_fragment.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/exit_dialogs.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/filter_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/folder_image_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/folder_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/fragment_edit.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/fragment_filter.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/fragment_frame.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/fragment_text.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/fragment_time.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/fragment_transition.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/frame_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/no_internet.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/no_internettt.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/notification_permission.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/offline_song_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/offlinee_songg_itemm.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/ok_dialogs.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/permission_dialogs.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/recycle_layout_text.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/req_permission.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/required_per.xml" value="0.264" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/save_dialog.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/selected_image_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/swap_image_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/swap_image_item_add.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/test_layout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/time_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/toast_bgg.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/transition_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/videodone_dialog.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/app/src/main/res/layout/videoo_donee_dialogg.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/imageeditlibrary/src/main/res/layout/activity_image_edit.xml" value="0.23802083333333332" />
+        <entry key="..\:/Deploy Apps/Video Maker/Abhishek Video Maker.zipwithout/Kishlay Video Maker 95/imageeditlibrary/src/main/res/layout/materialcolorpicker__layout_color_picker.xml" value="0.23802083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

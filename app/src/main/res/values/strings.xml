@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">Status Video Maker</string>
+    <string name="artist_name">Movie maker</string>
+    <string name="second2">s</string>
+    <string name="exit_in_main_menu">Are you sure to exit?</string>
+    <string name="menu_exit1">Go Back</string>
+    <string name="menu_cancel1">Stay Here</string>
+    <string name="share_app">Use this App for creating videos from images.</string>
+    <string name="shareapp">Share App</string>
+    <string name="sharecontent">Use this app Photo video maker app.</string>
+    <string name="exitss">Confirm Exit!</string>
+    <string name="exitss1">Are you sure, you want to exit this app ?</string>
+    <string name="rate">Rate</string>
+    <string name="nointernet">No Internet</string>
+    <string name="nointernetconnection">Internet Connection Not Found.\nCheck Your Connection or Try Again.</string>
+    <string name="tryagain">Wi-Fi</string>
+    <string name="data">Data</string>
+    <string name="itcannot">It cannot open settings!</string>
+    <string name="permission">Permission Granted Successfully</string>
+
+    <string name="permission_deny">Permission is denied !</string>
+    <string name="forthebest">For the best experience on photo Maker, Please grant access to: </string>
+    <string name="alert_msg">Give permission to access all video and image</string>
+    <string name="pleseaccept">Please Accept privacy policy</string>
+    <string name="requst_permission">Required Permission</string>
+    <string name="settipermisson">This app require permission to use\n awesome feature. Grant them in app\n settings.</string>
+    <string name="setting">Setting</string>
+    <string name="permirequird">Permission Required</string>
+    <string name="pleaseallowusto">Please allow us to access files on your device.</string>
+    <string name="allowpermisin">Allow Video Downloader to access Photo,\n Video and  Files on Your Device ?</string>
+    <string name="storagper">Manage your Permissions</string>
+    <string name="common_permission_message">Allow Access</string>
+    <string name="givestorage">Give permission to access storage file</string>
+    <string name="oks">OK</string>
+    <string name="selectfrom">Select from your gallery to edit on video maker. </string>
+    <string name="musics">Music</string>
+    <string name="selectmusice">Select your music. </string>
+    <string name="video">Video</string>
+    <string name="selectvideo">Save video to internal storage. </string>
+
+
+
+
+
+    <string name="rate_now">Rate Now</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="rate_content">If you enjoy using video maker, please \ntake a moment to rate it. thanks for\nYour Support!</string>
+    <string name="rating_dialog_submit_exit">Exit</string>
+    <string name="thanksforrating">Thanks For Rating</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986176313833",
+    "project_id": "com.status.videomaker",
+    "storage_bucket": "abhishek-video-maker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986176313833:android:340eb8bf22b27a761fd378",
+        "android_client_info": {
+          "package_name": "com.status.videomaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986176313833-e5rqcvfk2983cfk2luiqo06ltss9insl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA593c2wPxuoRziKerC3U8trHw8zsgda-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986176313833-e5rqcvfk2983cfk2luiqo06ltss9insl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

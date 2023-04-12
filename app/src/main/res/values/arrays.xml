@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="FontFamily">
+        <item>fonts/galette-med.otf</item>
+        <item>fonts/GosmickSans.ttf</item>
+        <item>fonts/Quote.ttf</item>
+        <item>fonts/Sofia-Regular.ttf</item>
+        <item>fonts/Cuisine.ttf</item>
+        <item>fonts/TrajanPro-Regular.otf</item>
+        <item>fonts/Florenzio.otf</item>
+        <item>fonts/RounderBold.otf</item>
+        <item>fonts/funkymuskrat.ttf</item>
+        <item>fonts/calendar note tfb.ttf</item>
+        <item>fonts/Clementine.otf</item>
+        <item>fonts/Komika Display - Shadow.ttf</item>
+        <item>fonts/Komika Display Tight.ttf</item>
+        <item>fonts/LogJam-Inline.otf</item>
+        <item>fonts/Lifestyle M54.ttf</item>
+        <item>fonts/OstrichSans-Bold.otf</item>
+        <item>fonts/Sniglet.ttf</item>
+        <item>fonts/Altitude.otf</item>
+        <item>fonts/arvil-sans.ttf</item>
+        <item>fonts/BEBASNEUE.OTF</item>
+        <item>fonts/Blackout-2am.ttf</item>
+        <item>fonts/BLANCH_CAPS.otf</item>
+        <item>fonts/Capsuula.ttf</item>
+        <item>fonts/Chunkfive Ex.ttf</item>
+        <item>fonts/Cubano-Regular.otf</item>
+        <item>fonts/Dolce Vita.ttf</item>
+        <item>fonts/Espacio.ttf</item>
+        <item>fonts/Fava-black.ttf</item>
+        <item>fonts/Hiekka Graphics - Savu-Condensed_0.otf</item>
+        <item>fonts/JohnHancockCP.otf</item>
+        <item>fonts/LAIKA.otf</item>
+        <item>fonts/mensch-regular.ttf</item>
+        <item>fonts/MovLette.ttf</item>
+        <item>fonts/Pistilli-Roman.otf</item>
+        <item>fonts/POTTERYB.TTF</item>
+        <item>fonts/Roboto-Thin.ttf</item>
+        <item>fonts/talldark.ttf</item>
+    </array>
+
+</resources>
